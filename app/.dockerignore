@@ -3,3 +3,5 @@ npm-debug.log
 .git
 Dockerfile
 .dockerignore
+postgres-alpine.tar
+*.tar
